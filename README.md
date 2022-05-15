@@ -13,7 +13,7 @@
   ## Links
   GitHub Repository: https://github.com/wizzle13/robot-gladiators
 
-  GitHub URL: https://wizzle13.github.io/robot-gladiators
+  
 
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
